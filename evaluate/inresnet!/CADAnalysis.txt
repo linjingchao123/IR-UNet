@@ -1,0 +1,16 @@
+
+************************************************************
+CAD Analysis: inresnet2!!!
+************************************************************
+
+Candidate detection results:
+    True positives: 1129
+    False positives: 9665
+    False negatives: 57
+    True negatives: 0
+    Total number of candidates: 14158
+    Total number of nodules: 1186
+    Ignored candidates on excluded nodules: 3309
+    Ignored candidates which were double detections on a nodule: 55
+    Sensitivity: 0.951939292
+    Average number of candidates per scan: 15.943693694
